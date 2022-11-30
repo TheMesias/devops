@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: FranciscoMesiassssss
-title: Desarrollador
-email: fsdfsd@gmail.com
-website: www.github.com/Themesias
+name: Carlos Andrade 
+title: Arquitecto
+email: carlosa1954@gmail.com
+#website: www.github.com/Themesias
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,14 +50,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Experto en arquitectura con más de 10 proyectos residenciales ejecutados con éxito y varios trabajos enfocados en el interiorismo. Capacitado para la inspección de riesgos industriales y el análisis de los procesos productivos, puedo contribuir a la finalización de obras, siguiendo los plazos establecidos, además de revisar los presupuestos buscando ahorros potenciales.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Skills: <mark>AutoCad</mark> y <mark>Unity</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Proyectos # Title for the section
+    layout: lista # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
+      - layout: Encargado de Obra 
+        title: Edificio Central Quito
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
