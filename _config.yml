@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: CarlosAndrade 
-title: Arquitecto
-email: carlosa1954@gmail.com
-website: www.github.com/CarlosA
+name: FranciscoMesiassssss
+title: Desarrollador
+email: fsdfsd@gmail.com
+website: www.github.com/Themesias
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,14 +50,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Experto en arquitectura con más de 10 proyectos residenciales ejecutados con éxito y varios trabajos enfocados en el interiorismo. Capacitado para la inspección de riesgos industriales y el análisis de los procesos productivos, puedo contribuir a la finalización de obras, siguiendo los plazos establecidos, además de revisar los presupuestos buscando ahorros potenciales.
 
-  Skills: <mark>AutoCad</mark> y <mark>Unity</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Proyectos # Title for the section
-    layout: lista # Type of content section (list/text)
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
     content:
-      - layout: Encargado de Obra 
-        title: Edificio Central Quito
+      - layout: top-middle
+        title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -103,12 +103,14 @@ content:
   - title: Mas sobre Mi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Mas interes sobre y cosas que hago en mi tiempo libre:
-      - Leer 
-      - Jugar
-      - Escalar
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
